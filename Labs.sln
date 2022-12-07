@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap01.Lab03", "Cap01.Lab03\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capitulo02.Lab01", "Capitulo02.Lab01\Capitulo02.Lab01.csproj", "{C5836FC9-F728-4DE0-A81C-B7CB166E4257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo02.Lab02", "Capitulo02.Lab02\Capitulo02.Lab02.csproj", "{E1715662-93C3-4F1A-9F6F-F636D33D7A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capitulo02.Lab02", "Capitulo02.Lab02\Capitulo02.Lab02.csproj", "{E1715662-93C3-4F1A-9F6F-F636D33D7A05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capitulo02.Lab03", "Capitulo02.Lab03\Capitulo02.Lab03.csproj", "{F2DDDC8B-F427-4302-B2F2-604E6614267A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capitulo02.Lab03", "Capitulo02.Lab03\Capitulo02.Lab03.csproj", "{F2DDDC8B-F427-4302-B2F2-604E6614267A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.10.1", "1.10.1\1.10.1.csproj", "{E8A4C95D-BA00-4021-BF1C-9FD88559EF4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F2DDDC8B-F427-4302-B2F2-604E6614267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2DDDC8B-F427-4302-B2F2-604E6614267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2DDDC8B-F427-4302-B2F2-604E6614267A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A4C95D-BA00-4021-BF1C-9FD88559EF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A4C95D-BA00-4021-BF1C-9FD88559EF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A4C95D-BA00-4021-BF1C-9FD88559EF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A4C95D-BA00-4021-BF1C-9FD88559EF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
